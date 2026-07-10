@@ -1,8 +1,9 @@
 # cloud-itonami-iso3166-uga
 
-**UGA**: Uganda.
+**`:implemented`** for **UGA**. Flagship `ug-entity-missing`, tax `ursb-unverified`.
 
-- PPDA e-GP
-- URSB
+```
+clojure -M:dev:test
+```
 
 AGPL-3.0-or-later.
